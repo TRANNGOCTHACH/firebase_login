@@ -13,6 +13,7 @@ class LoadingWidget extends StatelessWidget {
     );
   }
 
+//123344
   _buildBody(BuildContext context) {
     if (isImage) {
       return SpinKitRipple(
