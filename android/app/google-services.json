@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818106812593",
+    "firebase_url": "https://flutter-project-75a06.firebaseio.com",
+    "project_id": "flutter-project-75a06",
+    "storage_bucket": "flutter-project-75a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818106812593:android:94ff743d37ef494b3f7a90",
+        "android_client_info": {
+          "package_name": "dev.jideguru.flutterEbookApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818106812593-u44itafoqqsljocqrc29lkuvpa6il0av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf2dvQg0x2Q_e2ZEqbAoHJZwHjVYuTTgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818106812593-u44itafoqqsljocqrc29lkuvpa6il0av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
